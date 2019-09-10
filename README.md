@@ -16,7 +16,7 @@
 * 데이터베이스 : MySQL 
 
 ### 개발툴 
-* IDE : IntelliJ or Eclipse or STS 
+* IDE : IntelliJ
 * DB 구축/운영 : MySQL Workbench 
 * API 테스트 : Postman 
 
